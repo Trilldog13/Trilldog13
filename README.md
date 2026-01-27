@@ -18,7 +18,7 @@ I’m not an engineer — and I don’t pretend to be one — but I care deeply 
 - I ask questions instead of guessing
 - I will support you in your job search
 - I will provide real life interview templates
-- I qill provide you the best in class recruitment experience
+- I will provide you the best in class recruitment experience
 
 ### Why I’m on GitHub
 This profile is part of my effort to better understand the tools and workflows engineers use every day, and to be a more credible, informed recruitment partner as a result.
