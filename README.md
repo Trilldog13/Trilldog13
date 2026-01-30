@@ -8,7 +8,13 @@ I’m not an engineer, and I don’t pretend to be one, but I care deeply about 
 This profile exists to help technology professionals navigate and succeed in modern interview processes, particularly in markets where talent is scarce and competition is high. It also serves as a place to document my journey working within the technology space, sharing lessons learned from building fair, practical, and transparent hiring processes.
 
 ### What I do
-- Find and hire engineers, analysts & scientists
+- Find and hire engineers, analysts & scientists (data analyst, data engineer, data scientist, machine learning engineer, software engineer, hardware engineer)
+Python (Pandas, NumPy, TensorFlow, scikit-learn), SQL,
+Go, Java,
+GCP (BigQuery), AWS,
+Airflow, dbt, Docker,
+Looker, Tableau
+
 - Scale teams 
 - Partner with hiring managers on interview quality, not just speed
 - Focus heavily on candidate experience and inclusive hiring
