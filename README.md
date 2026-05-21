@@ -4,13 +4,13 @@ I’m a Senior Talent Acquisition Partner at Ocado Technology, partnering with e
 
 I’m not technical, but I’m curious. I invest time in understanding what engineers actually do so I can hire better and collaborate more effectively.
 
-I’m documenting my journey in tech recruitment — sharing insights into interview practices, hiring decisions, and what really happens behind the scenes. If it helps even a few people feel more informed or prepared, that’s a win.  
+I’m documenting my journey in tech recruitment - sharing insights into interview practices, hiring decisions, and what really happens behind the scenes. If it helps even a few people feel more informed or prepared, that’s a win.  
 
 
 ### What I do
 - Find and hire engineers, analysts & scientists (data analyst, data engineer, data scientist, machine learning engineer, software engineer, hardware engineer)
 Python (Pandas, NumPy, TensorFlow, scikit-learn), SQL,
-Go, Java,
+Java, Scala, C++, PLC 
 GCP (BigQuery), AWS,
 Airflow, dbt, Docker,
 Looker, Tableau
@@ -23,3 +23,4 @@ Looker, Tableau
 ### What I’m learning (continuously)
 - How engineers use GitHub in real-world teams
 - Source candidates through GitHub (sorry!)
+- Always uploading 'Gems' 
