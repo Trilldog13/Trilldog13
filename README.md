@@ -8,11 +8,16 @@ I’m documenting my journey in tech recruitment - sharing insights into intervi
 
 
 ### What I do
-- Find and hire engineers, analysts & scientists (data analyst, data engineer, data scientist, machine learning engineer, software engineer, hardware engineer)
-Python (Pandas, NumPy, TensorFlow, scikit-learn), SQL,
-Java, Scala, C++, PLC. 
+- Find and hire engineers, analysts & scientists (data analyst, data engineer, data scientist, machine learning engineer, software engineer, hardware engineer
+
+Python (Pandas, NumPy, TensorFlow, scikit-learn), SQL
+
+Java, Scala, C++, PLC
+
 GCP (BigQuery), AWS,
+
 Airflow, dbt, Docker,
+
 Looker, Tableau
 
 - Scale teams 
