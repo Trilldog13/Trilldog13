@@ -21,7 +21,7 @@ I recruit and hire:
 - 📊 Data Analysts
 - 🏗️ Data Engineers
 - 🧠 Data Scientists
-- ⚙️ Hardware Engineers
+- ⚙️ Robotics Engineers
 
 ### 🛠️ Technologies I Recruit For
 
