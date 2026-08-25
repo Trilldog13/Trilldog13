@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m Jonathan
 
-I'm a **Senior Talent Acquisition Partner at Ocado Technology**, partnering with engineering and data leaders to build high-performing technical teams.
+I'm a **Senior Talent Acquisition Partner (tech) at Ocado Group**, partnering with engineering and data leaders to build high-performing technical teams.
 
 💡 I’m not technical, but I’m curious.
 
 I invest time in understanding what engineers actually do so I can hire better, ask better questions, and collaborate more effectively.
 
-📝 I'm documenting my journey in tech recruitment—sharing insights into interview practices, hiring decisions, sourcing strategies, and what really happens behind the scenes. If it helps even a few people feel more informed or prepared, that's good enough for me. 
+📝 I'm documenting my journey in tech recruitment — sharing insights into interview practices, hiring decisions, sourcing strategies, and what really happens behind the scenes. If it helps even a few people feel more informed or prepared, that's good enough for me. 
 
 ---
 
@@ -23,7 +23,7 @@ I recruit and hire:
 - 🧠 Data Scientists
 - ⚙️ Robotics Engineers
 
-### 🛠️ Technologies I Recruit For
+### 🛠️ Technologies I Recruit For (to name a few) 
 
 #### Languages & Development
 - 🐍 Python (Pandas, NumPy, TensorFlow, scikit-learn)
