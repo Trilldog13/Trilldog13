@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jonathan
 
-I'm a **Senior Talent Acquisition Partner (tech) at Ocado Group**, partnering with engineering and data leaders to build high-performing technical teams.
+I'm a **Senior Talent Acquisition Partner (Technology) at Ocado Group**, partnering with engineering and data leaders to build high-performing technical teams.
 
 💡 I’m not technical, but I’m curious.
 
