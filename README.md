@@ -4,9 +4,9 @@ I'm a **Senior Talent Acquisition Partner (Technology) at Ocado Group**, partner
 
 💡 I’m not technical, but I’m curious.
 
-I invest time in understanding what engineers actually do so I can hire better, ask better questions, and collaborate more effectively.
+I invest time in understanding what engineers actually do so I can hire better, ask better questions, and (try to) collaborate more effectively.
 
-📝 I'm documenting my journey in tech recruitment — sharing insights into interview practices, hiring decisions, sourcing strategies, and what really happens behind the scenes. If it helps even a few people feel more informed or prepared, that's good enough for me. 
+📝 I'm documenting my journey in tech recruitment — sharing insights into recruitment, AI 'stuff', and what really happens behind the scenes. If it helps even a few people feel more informed or prepared, that's good enough for me. 
 
 ---
 
